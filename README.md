@@ -1,4 +1,4 @@
-<p align="center"><img width="832" alt="payme-form" src="https://www.dropbox.com/s/c4so3b3ltc1bid0/Payme%20-%20Home%202020-04-26%2022-14-54.png?dl=0">
+<p align="center"><img width="832" alt="payme-form" src="https://drive.google.com/open?id=11n73xUDxtugzbJRHuEJGr4iRLVXAq883">
 </p>
 
 ---
