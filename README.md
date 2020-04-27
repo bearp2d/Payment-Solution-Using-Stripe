@@ -6,7 +6,7 @@
 # PayMe
 
 PayMe is a checkout payment solution built on top of Stripe API.
-The application is used as a real-world SaaS example in my [book](https://maxkostinevich.com/books/laravel-saas/). 
+The application is used as a real-world SaaS example. 
 
 ### Demo
 Demo is available at [PayMe.rocks](https://payme.rocks)
@@ -37,21 +37,6 @@ php artisan horizon
 
 Then change ```APP_DOMAIN``` to the actual domain name of your app.
 Email verification is enabled, so do not forget to set proper SMTP settings for outgoing emails.
-
----
-### Want to learn more?
-- Subscribe to my [Youtube Channel](https://www.youtube.com/channel/UCxcoXXEjRERiLX1ixP-3Vew) to stay up to date with my latest videos.
-
----
-### [MIT License](https://opensource.org/licenses/MIT)
-
-## IMPORTANT TERMS
-
-### Indemnity
-You agree to indemnify and hold harmless Author for any third-party claims, actions or suits, as well as any related expenses, liabilities, damages, settlements or fees arising from your use or misuse of the Software, or a violation of any terms of this license.
-
-### Disclaimer Of Warranty
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF QUALITY, PERFORMANCE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. FURTHER, LARAVEL LLC DOES NOT WARRANT THAT THE SOFTWARE OR ANY RELATED SERVICE WILL ALWAYS BE AVAILABLE.
 
 ### Limitations Of Liability
 YOU ASSUME ALL RISK ASSOCIATED WITH THE INSTALLATION AND USE OF THE SOFTWARE. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS OF THE SOFTWARE BE LIABLE FOR CLAIMS, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE. LICENSE HOLDERS ARE SOLELY RESPONSIBLE FOR DETERMINING THE APPROPRIATENESS OF USE AND ASSUME ALL RISKS ASSOCIATED WITH ITS USE, INCLUDING BUT NOT LIMITED TO THE RISKS OF PROGRAM ERRORS, DAMAGE TO EQUIPMENT, LOSS OF DATA OR SOFTWARE PROGRAMS, OR UNAVAILABILITY OR INTERRUPTION OF OPERATIONS.
