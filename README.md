@@ -1,4 +1,4 @@
-<p align="center"><img width="832" alt="payme-form" src="https://user-images.githubusercontent.com/10295466/72933278-7b27e680-3d72-11ea-804c-fed3c306d4fa.png">
+<p align="center"><img width="832" alt="payme-form" src="https://www.dropbox.com/s/c4so3b3ltc1bid0/Payme%20-%20Home%202020-04-26%2022-14-54.png?dl=0">
 </p>
 
 ---
